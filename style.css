@@ -1,7 +1,15 @@
 * {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  overflow: hidden;
+  padding: -8px;
 }
 
 #header {
   background-color: rgb(50, 100, 50);
+  width: 100vw;
+  height: 30vh;
+}
+
+#heading {
+  color: white;
 }
